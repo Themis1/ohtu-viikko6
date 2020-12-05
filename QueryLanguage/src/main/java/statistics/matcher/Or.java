@@ -8,6 +8,7 @@ public class Or implements Matcher {
 
     public Or(Matcher... matchers) {
         this.matchers = matchers;
+
     }
 
     @Override
@@ -17,7 +18,6 @@ public class Or implements Matcher {
                 return true;
             }
         }
-
         return false;
     }
 }

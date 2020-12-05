@@ -2,6 +2,8 @@ statistics/PlayerReader.java
  statistics.PlayerReader
 statistics/matcher/Or.java
  statistics.matcher.Or
+statistics/matcher/QueryBuilder.java
+ statistics.QueryBuilder
 statistics/matcher/HasFewerThan.java
  statistics.matcher.HasFewerThan
 statistics/matcher/HasAtLeast.java
