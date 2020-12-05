@@ -1,4 +1,9 @@
 ensimmäinen rivi main-haarassa
+<<<<<<< HEAD
 toinen rivi main-haarassa. tätä ennen lisätty kolmas rivi branchissä ekahaara.
 
 neljäs rivi main haarassa. yritän amend-komentoa.
+=======
+
+toinen rivi branchissä ekahaara
+>>>>>>> kommitti branchissä ekahaara, lisätty tiedosto toka
