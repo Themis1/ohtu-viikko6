@@ -121,7 +121,6 @@ public class Main {
             query.playsIn("PHI")
                 .hasAtLeast(10, "assists")
                 .hasFewerThan(5, "goals").build()
-
         ).build();
 
         for (Player player : stats.matches(m12)) {
