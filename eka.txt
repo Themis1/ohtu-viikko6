@@ -1,1 +1,4 @@
 ensimmäinen rivi main-haarassa
+toinen rivi main-haarassa. tätä ennen lisätty kolmas rivi branchissä ekahaara.
+
+neljäs rivi main haarassa. yritän amend-komentoa.
